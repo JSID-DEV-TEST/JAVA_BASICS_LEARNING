@@ -29,13 +29,3 @@ public class SalaryCalculator {
 
     }
 }
-
-
-//single line comment
-
-/*
-Multi
-line
-comment
- */
-
