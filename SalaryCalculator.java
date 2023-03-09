@@ -17,9 +17,10 @@ public class SalaryCalculator {
         if(sales > 10){
             salary = salary + bonus;
         }
-
         //output
         System.out.println("The employees salary for this week is £" + salary);
+
+        //Basic If statement
 
 
     }
